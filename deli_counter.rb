@@ -10,3 +10,8 @@ def line(katz_deli)
     puts "The line is currently: #{line_array.join(" ")}"
 	end
 end
+
+
+def take_a_number(katz_deli, name)
+  puts 
+end
